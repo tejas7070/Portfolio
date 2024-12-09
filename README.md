@@ -56,8 +56,8 @@ Push to your fork and submit a pull request.
 Feel free to reach out to me!
 
 Email: ulawekartejas@gmail.com
-LinkedIn: Tejas Ulawekar
-GitHub: tejas7070
+LinkedIn: [Tejas Ulawekar](https://www.linkedin.com/in/tejas-ulawekar/)
+GitHub: [tejas7070](https://github.com/tejas7070/)
 ⭐ Acknowledgements
 Thank you to everyone who helped inspire this project!
 
